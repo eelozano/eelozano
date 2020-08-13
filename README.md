@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on personal website!
+- 🌱 I’m currently learning Vue.js
+- 📫 How to reach me: https://twitter.com/QAEnrique
